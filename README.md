@@ -4,8 +4,6 @@
 
 📊 Country Sales & Profit Analysis 
 
-![Dashboard](dashboard overview.png)
-
 📌 Overview
 
 This project presents an interactive Excel dashboard designed to analyze sales and profitability across regions, products, and customer segments. It provides clear insights into business performance using charts, slicers, and data visualization techniques.
