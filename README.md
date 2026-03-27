@@ -1,6 +1,6 @@
 # Sales-Profit Dashboard Excel
 
-![Dashboard](dashboard overview.png)
+![Dashboard](dashboard.png)
 
 📊 Country Sales & Profit Analysis 
 
