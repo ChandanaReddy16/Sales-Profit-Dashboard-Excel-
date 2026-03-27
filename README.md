@@ -1,4 +1,4 @@
-# Sales-Profit-Dashboard-Excel-
+# Sales-Profit Dashboard Excel
 
 ![Dashboard](dashboard overview.png)
 
