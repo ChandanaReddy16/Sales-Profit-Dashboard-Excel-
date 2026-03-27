@@ -4,11 +4,11 @@
 
 # 📊 Country Sales & Profit Analysis 
 
-📌 Overview
+# 📌 Overview
 
 This project presents an interactive Excel dashboard designed to analyze sales and profitability across regions, products, and customer segments. It provides clear insights into business performance using charts, slicers, and data visualization techniques.
 
-🎯 Objectives
+# 🎯 Objectives
 
 - Analyze overall sales and profit performance
 - Identify top and least profitable products
@@ -16,7 +16,7 @@ This project presents an interactive Excel dashboard designed to analyze sales a
 - Evaluate customer segment performance
 - Enable dynamic filtering using slicers
 
-🔑 Key Metrics
+# 🔑 Key Metrics
 
 - Total Profit
 - Order Count
@@ -24,7 +24,7 @@ This project presents an interactive Excel dashboard designed to analyze sales a
 - Profit by City
 - Product-wise Profitability
 
-📈 Dashboard Features
+# 📈 Dashboard Features
 
 - Top 5 Profitable States bar chart
 - Top 10 Most Profitable Cities visualization
@@ -35,7 +35,7 @@ This project presents an interactive Excel dashboard designed to analyze sales a
 - Customer Segment
 - Ship Mode
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -43,7 +43,7 @@ This project presents an interactive Excel dashboard designed to analyze sales a
 - Slicers
 - Basic Formulas
 
-📊 Insights
+# 📊 Insights
 
 - A few states contribute majorly to total profit
 - Some products consistently generate losses
@@ -51,7 +51,7 @@ This project presents an interactive Excel dashboard designed to analyze sales a
 - Customer segments vary in profitability
 - Shipment modes influence order distribution
 
-🚀 Outcome
+# 🚀 Outcome
 
 Converted raw data into an interactive and visually appealing dashboard, enabling better understanding of business trends and supporting data-driven decisions.
 
